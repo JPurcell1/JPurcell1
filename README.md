@@ -1,6 +1,7 @@
 <h1> Hi, I'm Jason👋</h1>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## Objective
 Aspiring cybersecurity professional eager for an opportunity to contribute the knowledge and experience I have gathered so far into a Cybersecurity role.
 
 ## Cybersecurity Projects
