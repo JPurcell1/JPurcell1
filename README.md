@@ -5,7 +5,7 @@
 Aspiring cybersecurity professional eager for an opportunity to contribute the knowledge and experience I have gathered so far into a Cybersecurity role.
 
 ## Cybersecurity Projects
-- [SIEM in Azure]()
+- [SIEM in Azure](https://github.com/JPurcell1/SIEM-in-Azure/blob/main/README.md#siem-in-azure)
 - [File Encryptor]()
 - [Substitution Cipher]()
 
