@@ -6,7 +6,7 @@ Aspiring cybersecurity professional eager for an opportunity to contribute the k
 
 ## Cybersecurity Projects
 - [SIEM in Azure](https://github.com/JPurcell1/SIEM-in-Azure/blob/main/README.md#siem-in-azure)
-- [SOC Home Lab]()
+- [Analyzing PCAPs in Wireshark]()
 - [Substitution Cipher]()
 
 ## Skills
