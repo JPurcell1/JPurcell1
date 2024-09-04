@@ -16,8 +16,7 @@
 | Socket Programming                            | [TCP Chat Room](https://github.com/JPurcell1/TCP-Chat-Room/tree/main) |
 | Multi-Threading                               | [TCP Chat Room](https://github.com/JPurcell1/TCP-Chat-Room/tree/main) |
 | Cryptography                                  | [Substitution Cipher](https://github.com/JPurcell1/substitution-cipher) |
-| Encryption and Decryption                     | [File Encryption](https://github.com/JPurcell1/file-encryptor),
-                                                  [Substitution Cipher](https://github.com/JPurcell1/substitution-cipher) |
+| Encryption and Decryption                     | [File Encryption](https://github.com/JPurcell1/file-encryptor), [Substitution Cipher](https://github.com/JPurcell1/substitution-cipher) |
                                                   
 
 
