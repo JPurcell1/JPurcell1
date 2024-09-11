@@ -14,7 +14,7 @@
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [SIEM in Azure](https://github.com/JPurcell1/SIEM-in-Azure/blob/main/README.md#siem-in-azure) |
 | Attack Data Visualiztion                      | [SIEM in Azure](https://github.com/JPurcell1/SIEM-in-Azure/blob/main/README.md#siem-in-azure) |
-| Network Traffic Monitoring                    | [Analyzing PCAPs in Wireshark](https://github.com/JPurcell1/Wireshark-Lab/blob/main/README.md) |
+| Network Traffic Monitoring                    | [Analyzing PCAPs in Wireshark](https://github.com/JPurcell1/Wireshark-Lab/tree/main) |
 | Socket Programming                            | [TCP Chat Room](https://github.com/JPurcell1/TCP-Chat-Room/tree/main) |
 | Multi-Threading                               | [TCP Chat Room](https://github.com/JPurcell1/TCP-Chat-Room/tree/main) |
 | Cryptography                                  | [Substitution Cipher](https://github.com/JPurcell1/substitution-cipher) |
