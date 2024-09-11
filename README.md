@@ -3,7 +3,6 @@
 ## Cybersecurity Projects
 - [SIEM in Azure](https://github.com/JPurcell1/SIEM-in-Azure/blob/main/README.md#siem-in-azure)
 - [Analyzing PCAPs in Wireshark](https://github.com/JPurcell1/Wireshark-Lab/tree/main)
-- [Detection Lab]()
 - [TCP Chat Room](https://github.com/JPurcell1/TCP-Chat-Room/tree/main)
 - [Substitution Cipher](https://github.com/JPurcell1/substitution-cipher)
 - [File Encryption](https://github.com/JPurcell1/file-encryptor)
