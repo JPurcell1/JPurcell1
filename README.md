@@ -5,7 +5,7 @@
 - [Analyzing Network Traffic in Wireshark](https://github.com/JPurcell1/Wireshark-Lab/tree/main)
 - [TCP Chat Room](https://github.com/JPurcell1/TCP-Chat-Room/tree/main)
 - [Substitution Cipher](https://github.com/JPurcell1/substitution-cipher)
-- [File Encryption](https://github.com/JPurcell1/file-encryptor)
+- [File Encryptor](https://github.com/JPurcell1/file-encryptor)
 
 ## Skills
 
@@ -17,7 +17,7 @@
 | Socket Programming                            | [TCP Chat Room](https://github.com/JPurcell1/TCP-Chat-Room/tree/main) |
 | Multi-Threading                               | [TCP Chat Room](https://github.com/JPurcell1/TCP-Chat-Room/tree/main) |
 | Cryptography                                  | [Substitution Cipher](https://github.com/JPurcell1/substitution-cipher) |
-| Encryption and Decryption                     | [File Encryption](https://github.com/JPurcell1/file-encryptor), [Substitution Cipher](https://github.com/JPurcell1/substitution-cipher) |
+| Encryption and Decryption                     | [File Encrypor](https://github.com/JPurcell1/file-encryptor), [Substitution Cipher](https://github.com/JPurcell1/substitution-cipher) |
                                                   
 
 
