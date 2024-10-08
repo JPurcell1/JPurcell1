@@ -1,4 +1,5 @@
 <h1> Hi, I'm Jason👋</h1>
+Cybersecurity Junior and Aspiring Security Analyst with a passion for risk mitigation, threat hunting, and incident response. Currently building my skills through the use of various projects/labs, certifications and CTFs.
 
 ## Cybersecurity Projects
 - [SIEM in Azure](https://github.com/JPurcell1/SIEM-in-Azure/blob/main/README.md#siem-in-azure)
