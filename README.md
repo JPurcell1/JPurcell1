@@ -1,7 +1,7 @@
 <h1> Hi, I'm Jason👋</h1>
-Cybersecurity Junior and Aspiring Information Security Analyst with a passion for risk mitigation, threat monitoring, and incident response. Currently developing my skills through the completion of various projects/labs, certifications and CTFs.
+Entry-level IT Support Technician with hands-on experience deploying and managing Azure Virtual Machines, Active Directory environments, and osTicket ticketing systems. Skilled in user provisioning, group policy, networking fundamentals, security fundamentals and troubleshooting Windows environments. Seeking a Help Desk or IT Support role where I can contribute to infrastructure support and end-user problem resolution.
 
-## Cybersecurity Projects
+## Projects
 - [SIEM in Azure](https://github.com/JPurcell1/SIEM-in-Azure/blob/main/README.md#siem-in-azure)
 - [Analyzing Network Traffic in Wireshark](https://github.com/JPurcell1/Wireshark-Lab/tree/main)
 - [TCP Chat Room](https://github.com/JPurcell1/TCP-Chat-Room/tree/main)
